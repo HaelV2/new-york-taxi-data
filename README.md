@@ -1,5 +1,5 @@
 # new-york-taxi-data
-# NYC Taxi Data Engineering
+
 
 In this project, I focused on processing and analysing NYC taxi data using Python, Pandas, and PostgreSQL.
 
